@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #000000
+}
+
+input {
+    background-color: black;
+    border-color: black;
+    color: forestgreen;
+    font-family: Arial;
+    outline: none;
+    line-height: normal;
+    font-size: large;
+    left: 10px;
+    top: 10px;
+}
+
+div {
+    display: block;
+    background-color: black;
+    left: 10px;
+    color: forestgreen;
+    font-size: large;
+    font: bold;
+}
